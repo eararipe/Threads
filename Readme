@@ -1,0 +1,3 @@
+Program to test execution time differences in single or multithreaded C, Python and Javascript.
+
+It also demonstrates the dangers of concurrency when using multithreaded C without mutex or other lock.
